@@ -95,7 +95,7 @@ function Index() {
           aria-label="Navigation principale"
         >
           <a href="#top" className="flex items-center gap-2" aria-label="Camer Data, accueil">
-            <img src={logoAsset.url} alt="Camer Data" className="h-9 w-auto" width={180} />
+            <img src={logoAsset.url} alt="Camer Data" className="h-9 w-auto" width={220} />
           </a>
           <a
             href="mailto:contact@camerdata.cm"
