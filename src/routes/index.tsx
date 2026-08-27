@@ -4,9 +4,10 @@ import { motion } from "motion/react";
 import { CheckCircle2, Mail, MessageCircle, Rocket, ShieldCheck, Sparkles } from "lucide-react";
 
 import logoAsset from "@/assets/camerdata-logo.png.asset.json";
-import flyer1 from "@/assets/image1.jpg";
-import flyer2 from "@/assets/image2.jpg";
-import flyer3 from "@/assets/image3.jpg";
+import flyer1 from "@/assets/image1.png";
+import flyer2 from "@/assets/image2.png";
+import flyer3 from "@/assets/image3.png";
+import flyer4 from "@/assets/image4.png";
 import {
   OPERATORS,
   PLANS,
